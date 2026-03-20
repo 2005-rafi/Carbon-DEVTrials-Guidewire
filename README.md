@@ -21,7 +21,7 @@ Carbon is an AI-enabled parametric microinsurance platform purpose-built for **F
 10. [Tech Stack & Development Plan](#10-tech-stack--development-plan)
 ---
 
-video link https://drive.google.com/file/d/1oiKE3ZfaNUtlG-LFjQI-GGyyDFBy-jKh/view?usp=sharing
+video link https://youtu.be/k3IPFErejSI?si=UUpec16teziKpbC_
 
 ## 1. The Problem
 
