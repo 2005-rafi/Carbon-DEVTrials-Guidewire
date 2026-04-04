@@ -1,0 +1,23 @@
+
+.env
+.env.*
+*.env
+*.env.*
+
+# Allow example env files
+!.env.example
+!**/.env.example
+
+.venv/
+venv/
+ENV/
+env/
+
+
+# ------------------------------------------------------------------------------
+# PYTHON (BACKEND SERVICES)
+# ------------------------------------------------------------------------------
+
+__pycache__/
+*.py[cod]
+*$py.class
