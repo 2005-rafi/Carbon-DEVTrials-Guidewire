@@ -1,5 +1,5 @@
 # Carbon — Parametric Income Disruption Insurance
-### Guidewire DEVTrails 2026 · Phase 2 Submission · Scale Phase
+### Guidewire DEVTrails 2026 · Phase 3 Submission · Soar Phase
 
 
 Carbon is an AI-enabled parametric microinsurance platform purpose-built for **Food Delivery Partners** across India. When an uncontrollable external disruption — a flash flood, a declared curfew, a city-wide platform outage — halts their ability to earn, Carbon automatically detects it, validates it, and transfers the lost wages directly to their UPI account. No claim forms. No adjusters. No waiting.
