@@ -23,6 +23,10 @@ Carbon is an AI-enabled parametric microinsurance platform purpose-built for **F
 
 ---
 
+# To access the overall admin dashboard
+- Open the link (http://54.198.46.251/8000)
+- Drive Link for PPT (https://drive.google.com/drive/folders/1b_82M9K3naXyQDrWcKyZb1SV2xrdBeM1)
+
 ## 1. The Problem
 
 India's food delivery ecosystem runs on the backs of delivery partners. An estimated 5–7 million workers operate across food delivery platforms in a purely gig-based model with no guaranteed income, no sick pay, and no protection from forces outside their control.
